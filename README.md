@@ -5,6 +5,6 @@ I'm french student in IT.
 ## Some facts 
 
 * ~I love JS~.
+* I love C#.
 
-*I love C#
 
