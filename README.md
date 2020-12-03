@@ -6,5 +6,6 @@ I'm french student in IT.
 
 * ~I love JS~.
 * I love C#.
+* Keyboard enthusiast
 
 
